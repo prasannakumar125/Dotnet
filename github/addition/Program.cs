@@ -16,6 +16,7 @@ namespace addition
             int b = Convert.ToInt32(Console.ReadLine());
             int sum = a + b;
             Console.WriteLine("sum of two numbers" + sum);
+            //jkjkjkk
             Console.ReadLine();
         }
     }
