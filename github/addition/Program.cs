@@ -17,6 +17,7 @@ namespace addition
             int sum = a + b;
             Console.WriteLine("sum of two numbers" + sum);
             //jkjkjkk
+            //kkkkkpplll;
             Console.ReadLine();
         }
     }
