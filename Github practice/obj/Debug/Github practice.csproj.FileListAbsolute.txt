@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Desktop\practice github\Github practice\bin\Debug\Github practice.exe.config
+C:\Users\ADMIN\Desktop\practice github\Github practice\bin\Debug\Github practice.exe
+C:\Users\ADMIN\Desktop\practice github\Github practice\bin\Debug\Github practice.pdb
+C:\Users\ADMIN\Desktop\practice github\Github practice\obj\Debug\Github practice.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\practice github\Github practice\obj\Debug\Github practice.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\practice github\Github practice\obj\Debug\Github practice.exe
+C:\Users\ADMIN\Desktop\practice github\Github practice\obj\Debug\Github practice.pdb
