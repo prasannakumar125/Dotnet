@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Desktop\practice github\demo application\bin\Debug\demo application.exe.config
+C:\Users\ADMIN\Desktop\practice github\demo application\bin\Debug\demo application.exe
+C:\Users\ADMIN\Desktop\practice github\demo application\bin\Debug\demo application.pdb
+C:\Users\ADMIN\Desktop\practice github\demo application\obj\Debug\demo application.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\practice github\demo application\obj\Debug\demo application.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\practice github\demo application\obj\Debug\demo application.exe
+C:\Users\ADMIN\Desktop\practice github\demo application\obj\Debug\demo application.pdb
