@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Desktop\Classes in oops\Classes in oops\obj\Debug\Classes in oops.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Classes in oops\Classes in oops\obj\Debug\Classes in oops.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Classes in oops\Classes in oops\bin\Debug\Classes in oops.exe.config
+C:\Users\ADMIN\Desktop\Classes in oops\Classes in oops\bin\Debug\Classes in oops.exe
+C:\Users\ADMIN\Desktop\Classes in oops\Classes in oops\bin\Debug\Classes in oops.pdb
+C:\Users\ADMIN\Desktop\Classes in oops\Classes in oops\obj\Debug\Classes in oops.exe
+C:\Users\ADMIN\Desktop\Classes in oops\Classes in oops\obj\Debug\Classes in oops.pdb
