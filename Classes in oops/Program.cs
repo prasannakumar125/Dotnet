@@ -23,6 +23,8 @@ namespace Classes_in_oops
             Console.ReadLine();
 
 
+
+
             
             //teacher tt = new teacher();
         //    teacher.GetdetailsofTeacher(1, "Prasanna", "Banaglore");
