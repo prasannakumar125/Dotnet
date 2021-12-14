@@ -21,6 +21,8 @@ namespace Classes_in_oops
             Console.WriteLine("mgraddress:" + employee.Manager_address);
             employee.Getmanagerdetails(1, "narasi", "banagalore");
             Console.ReadLine();
+
+
             
             //teacher tt = new teacher();
         //    teacher.GetdetailsofTeacher(1, "Prasanna", "Banaglore");
